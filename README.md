@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> 👋 Hey, I'm Harsh<br><br>I'm a final-year MCA student at Alliance University, Bangalore — based in Ahmedabad, India.<br><br>I build AI-powered systems that solve real problems. My goal is simple — use technology to create things that actually matter. One day I want to build my own AI startup.<br><br>I don't just write code. I think about problems first.
+<br> 👋 Hey, I'm Harsh<br><br>I'm Post Graduate In Data Science student From Alliance University, Bangalore — based in Ahmedabad, India.<br><br>I build AI-powered systems that solve real problems. My goal is simple — use technology to create things that actually matter. One day I want to build my own AI startup.<br><br>I don't just write code. I think about problems first.
 
 
 ## 🌐 Socials:
